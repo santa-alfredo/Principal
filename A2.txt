@@ -1,3 +1,4 @@
 archivo creato en A_rama
 archivo modificado A_rama 3er commit
+Archivo modificado A_rama despues del merge con B_rama
 
